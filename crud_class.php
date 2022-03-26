@@ -133,6 +133,5 @@ class Patient{
             return $patient_del;
         }
         return [];
-
     }
 }
