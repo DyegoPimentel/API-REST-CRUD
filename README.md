@@ -5,8 +5,8 @@ Este projeto foi desenvolvido para demonstrar os meus conhecimentos técnicos em
 
 *Consulte a documentação completa:*
 
+- 👩🏻‍💻 [Documentação ](https://dyego-pimentel.gitbook.io/api-rest-and-crud/)
 
-<button name="button" style="background-color:#24783D; color:#fff; padding:10px 25px; border-radius:50px; border: 0px " onclick="https://dyego-pimentel.gitbook.io/api-rest-and-crud/">Documentação</button>
 
 
 Desenvolvido por Dyego Pimentel
