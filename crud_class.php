@@ -59,7 +59,7 @@ class Patient{
     # Função de Conexão ao banco de dados
     private function connection() :\PDO
     {
-        return new \PDO("mysql:host=localhost;dbname=u489867931_api_crud","u489867931_Pimentel","5@bUpqp1Fkp");
+        return new \PDO("mysql:host=localhost;dbname=NOME_DO_BANCO","USUÁRIO","SENHA");
     }
 
 
