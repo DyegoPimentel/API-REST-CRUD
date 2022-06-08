@@ -10,5 +10,5 @@ Este projeto foi desenvolvido para demonstrar os meus conhecimentos técnicos em
 - 👩🏻‍💻 [Documentação ](https://dyego-pimentel.gitbook.io/api-rest-and-crud/)
 
 
-
+---
 Desenvolvido por [Dyego Pimentel](https://www.linkedin.com/in/dyegopimentel/)
