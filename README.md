@@ -10,4 +10,4 @@ This project was developed to demonstrate my technical knowledge in a job interv
 - 👩🏻‍💻 [Documentation](https://dyego-pimentel.gitbook.io/api-rest-and-crud/)
 
 ---
-Developed by Dyego Pimentel
+Developed by [Dyego Pimentel](https://www.linkedin.com/in/dyegopimentel/)
