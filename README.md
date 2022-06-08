@@ -1,12 +1,13 @@
-# Desenvolvimento de API REST utilizando PHP e MySQL
+Languages: English - Português
 
-Neste projeto eu crio uma API REST utilizando PHP, e com esta API é possivel fazer o CRUD em um banco de dados MySQL.
-Este projeto foi desenvolvido para demonstrar os meus conhecimentos técnicos em uma entrevista de emprego, onde o objetivo central do teste é Montar uma API REST com CRUD e documentar as rotas da API.
+# REST API using PHP and MySQL
 
-*Consulte a documentação completa:*
+In this project I create a REST API using PHP, and with this API it's possible to do CRUD in a MySQL database.
+This project was developed to demonstrate my technical knowledge in a job interview, where the main objective of the test is to assemble a REST API with CRUD and document the API endpoints.
 
-- 👩🏻‍💻 [Documentação ](https://dyego-pimentel.gitbook.io/api-rest-and-crud/)
+*See full documentation:*
 
+- 👩🏻‍💻 [Documentation](https://dyego-pimentel.gitbook.io/api-rest-and-crud/)
 
-
-Desenvolvido por Dyego Pimentel
+---
+Developed by Dyego Pimentel
