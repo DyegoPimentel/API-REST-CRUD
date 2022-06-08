@@ -1,4 +1,4 @@
-Languages: English - Português
+**Languages:** [English](README.md) - Português
 
 # Desenvolvimento de API REST utilizando PHP e MySQL
 
@@ -11,4 +11,4 @@ Este projeto foi desenvolvido para demonstrar os meus conhecimentos técnicos em
 
 
 
-Desenvolvido por Dyego Pimentel
+Desenvolvido por [Dyego Pimentel](https://www.linkedin.com/in/dyegopimentel/)
