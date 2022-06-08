@@ -1,4 +1,4 @@
-Languages: English - Português
+**Languages:** English - [Português](README_PT-BR.md)
 
 # REST API using PHP and MySQL
 
